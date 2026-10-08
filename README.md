@@ -12,7 +12,13 @@ I’m using AI-assisted software development to explore how fragmented, inconsis
 
 My hands-on work includes defining requirements, developing data-processing workflows, investigating errors and validating results. I’m particularly interested in data quality, traceability and making complex information useful.
 
-This portfolio will demonstrate selected approaches using synthetic healthcare data.
+### Featured demonstration: Healthcare Data Foundations
+
+[Explore the project](https://github.com/alanrbateman/healthcare-data-foundations)
+
+A working demonstration that brings together synthetic physician records from credentialing and scheduling systems, standardizes information, preserves source traceability and flags unresolved issues for human review.
+
+Built with AI assistance and explicit business rules; successfully run through GitHub Actions.
 
 ## How I work
 
